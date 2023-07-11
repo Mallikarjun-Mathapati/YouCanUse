@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/YouCanUse/static/css/main.aa590d85.css",
+    "main.js": "/YouCanUse/static/js/main.793c1f5b.js",
+    "static/js/787.42fe3ee6.chunk.js": "/YouCanUse/static/js/787.42fe3ee6.chunk.js",
+    "static/media/HomePage Main.jpg": "/YouCanUse/static/media/HomePage Main.87e070e39772996d37bc.jpg",
+    "static/media/Asta Black clover.png": "/YouCanUse/static/media/Asta Black clover.c7d9f9cb76dceb452efd.png",
+    "static/media/textconv bg.jpg": "/YouCanUse/static/media/textconv bg.f718d02e2681a7643b53.jpg",
+    "static/media/zoro.png": "/YouCanUse/static/media/zoro.0115baace0e16a50fa18.png",
+    "static/media/About me bg.jpg": "/YouCanUse/static/media/About me bg.6e0fa09ef81161010cba.jpg",
+    "static/media/naruto 1 1.png": "/YouCanUse/static/media/naruto 1 1.34f8a2ba6ba062da5123.png",
+    "static/media/Logos.png": "/YouCanUse/static/media/Logos.5104f98301b1834b3fff.png",
+    "static/media/Jiraiya.png": "/YouCanUse/static/media/Jiraiya.7fb2a6c290845bede5de.png",
+    "static/media/kakashi 1.png": "/YouCanUse/static/media/kakashi 1.e955b74c25c441c73c74.png",
+    "static/media/Local Clock.png": "/YouCanUse/static/media/Local Clock.05bac457dbc2ba18a800.png",
+    "static/media/Increment & Decrement.png": "/YouCanUse/static/media/Increment & Decrement.54da60eb6b6f5df770e7.png",
+    "static/media/Digital Clock.png": "/YouCanUse/static/media/Digital Clock.762b8b3f550894fd7a36.png",
+    "index.html": "/YouCanUse/index.html",
+    "main.aa590d85.css.map": "/YouCanUse/static/css/main.aa590d85.css.map",
+    "main.793c1f5b.js.map": "/YouCanUse/static/js/main.793c1f5b.js.map",
+    "787.42fe3ee6.chunk.js.map": "/YouCanUse/static/js/787.42fe3ee6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa590d85.css",
+    "static/js/main.793c1f5b.js"
+  ]
+}
