@@ -10,7 +10,7 @@ import Calculator from './Pages/Calculator';
 import Todolists from './Pages/Todolists';
 import TextToSpeech from './Pages/TextToSpeech';
 import IncrementD from './Pages/IncrementD';
-import { Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 import Footer from './Sections/Footer';
 
@@ -18,6 +18,7 @@ function App() {
   return (
     <>
     <NavBar></NavBar>
+    <BrowserRouter>
     <Routes>
       <Route exact path='/' Component={Home} /> 
       <Route exact path='/TextCov' Component={TextCov} /> 
@@ -29,6 +30,7 @@ function App() {
       <Route exact path='/TextToSpeech' Component = {TextToSpeech} />
       <Route exact path='/IncrementD' Component = {IncrementD} />
     </Routes>
+    </BrowserRouter>
     <Footer></Footer>
     
     </>
