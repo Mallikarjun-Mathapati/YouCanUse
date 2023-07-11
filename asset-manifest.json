@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/YouCanUse/static/css/main.aa590d85.css",
-    "main.js": "/YouCanUse/static/js/main.793c1f5b.js",
-    "static/js/787.42fe3ee6.chunk.js": "/YouCanUse/static/js/787.42fe3ee6.chunk.js",
+    "main.js": "/YouCanUse/static/js/main.130d5a11.js",
     "static/media/HomePage Main.jpg": "/YouCanUse/static/media/HomePage Main.87e070e39772996d37bc.jpg",
     "static/media/Asta Black clover.png": "/YouCanUse/static/media/Asta Black clover.c7d9f9cb76dceb452efd.png",
     "static/media/textconv bg.jpg": "/YouCanUse/static/media/textconv bg.f718d02e2681a7643b53.jpg",
@@ -17,11 +16,10 @@
     "static/media/Digital Clock.png": "/YouCanUse/static/media/Digital Clock.762b8b3f550894fd7a36.png",
     "index.html": "/YouCanUse/index.html",
     "main.aa590d85.css.map": "/YouCanUse/static/css/main.aa590d85.css.map",
-    "main.793c1f5b.js.map": "/YouCanUse/static/js/main.793c1f5b.js.map",
-    "787.42fe3ee6.chunk.js.map": "/YouCanUse/static/js/787.42fe3ee6.chunk.js.map"
+    "main.130d5a11.js.map": "/YouCanUse/static/js/main.130d5a11.js.map"
   },
   "entrypoints": [
     "static/css/main.aa590d85.css",
-    "static/js/main.793c1f5b.js"
+    "static/js/main.130d5a11.js"
   ]
 }
